@@ -1,0 +1,219 @@
+{
+    "jornada": [
+        {
+            "@attributes": {
+                "numero": "1"
+            },
+            "partit": [
+                {
+                    "local": "R. Sociedad",
+                    "visitant": "Getafe",
+                    "resultat": "2-0",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "València",
+                    "visitant": "Màlaga",
+                    "resultat": "1-0",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Osasuna",
+                    "visitant": "Granada",
+                    "resultat": "2-1",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Sevilla",
+                    "visitant": "Atlètic",
+                    "resultat": "3-2",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Celta",
+                    "visitant": "Espanyol",
+                    "resultat": "2-2",
+                    "estat": "finalitzat"
+                }
+            ]
+        },
+        {
+            "@attributes": {
+                "numero": "2"
+            },
+            "partit": [
+                {
+                    "local": "Getafe",
+                    "visitant": "Almeria",
+                    "resultat": "2-3",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Vila-real",
+                    "visitant": "R. Sociedad",
+                    "resultat": "0-1",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Osasuna",
+                    "visitant": "Granada",
+                    "resultat": "1-0",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Sevilla",
+                    "visitant": "FC Barcelona",
+                    "resultat": "2-2",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Betis",
+                    "visitant": "Celta",
+                    "resultat": "3-1",
+                    "estat": "finalitzat"
+                }
+            ]
+        },
+        {
+            "@attributes": {
+                "numero": "3"
+            },
+            "partit": [
+                {
+                    "local": "Rayo",
+                    "visitant": "Almeria",
+                    "resultat": "2-2",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Elx",
+                    "visitant": "València",
+                    "resultat": "1-3",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Atlètic",
+                    "visitant": "Osasuna",
+                    "resultat": "2-0",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Reial Madrid",
+                    "visitant": "Rayo",
+                    "resultat": "4-1",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Granada",
+                    "visitant": "FC Barcelona",
+                    "resultat": "2-3",
+                    "estat": "finalitzat"
+                }
+            ]
+        },
+        {
+            "@attributes": {
+                "numero": "4"
+            },
+            "partit": [
+                {
+                    "local": "Atlètic",
+                    "visitant": "Elx",
+                    "resultat": "2-1",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Betis",
+                    "visitant": "Vila-real",
+                    "resultat": "1-1",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Espanyol",
+                    "visitant": "Reial Madrid",
+                    "resultat": "0-2",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Celta",
+                    "visitant": "Granada",
+                    "resultat": "3-0",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "FC Barcelona",
+                    "visitant": "València",
+                    "resultat": "4-2",
+                    "estat": "finalitzat"
+                }
+            ]
+        },
+        {
+            "@attributes": {
+                "numero": "4"
+            },
+            "partit": [
+                {
+                    "local": "Atlètic",
+                    "visitant": "Almeria",
+                    "resultat": "4-2",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "FC Barcelona",
+                    "visitant": "Sevilla",
+                    "resultat": "3-2",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Granada",
+                    "visitant": "Espanyol",
+                    "resultat": "2-1",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Màlaga",
+                    "visitant": "Rayo",
+                    "resultat": "5-0",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Elx",
+                    "visitant": "Valladolid",
+                    "resultat": "0-0",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Llevant",
+                    "visitant": "R. Sociedad",
+                    "resultat": "0-0",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Vila-real",
+                    "visitant": "Reial Madrid",
+                    "resultat": "2-2",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Getafe",
+                    "visitant": "Osasuna",
+                    "resultat": "2-1",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Betis",
+                    "visitant": "València",
+                    "resultat": "3-2",
+                    "estat": "finalitzat"
+                },
+                {
+                    "local": "Atlètic",
+                    "visitant": "Celta",
+                    "resultat": "3-2",
+                    "estat": "finalitzat"
+                }
+            ]
+        }
+    ]
+}
