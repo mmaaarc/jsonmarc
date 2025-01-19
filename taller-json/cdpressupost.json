@@ -1,0 +1,119 @@
+{
+  "pressupostos": [
+    {
+      "id": 1,
+      "components": [
+        {
+          "tipus": "placa base",
+          "nom": "ASUS ROG Strix Z590-A",
+          "preu": {
+            "moneda": "EUR",
+            "valor": 249.99
+          }
+        },
+        {
+          "tipus": "processador",
+          "nom": "Intel Core i7-11700K",
+          "preu": {
+            "moneda": "EUR",
+            "valor": 399.99
+          }
+        },
+        {
+          "tipus": "memoria RAM",
+          "nom": "Corsair Vengeance LPX 16GB (2x8GB) DDR4",
+          "preu": {
+            "moneda": "EUR",
+            "valor": 89.99
+          }
+        },
+        {
+          "tipus": "disc dur",
+          "nom": "Samsung 970 EVO 1TB SSD",
+          "preu": {
+            "moneda": "EUR",
+            "valor": 109.99
+          }
+        },
+        {
+          "tipus": "targeta gràfica",
+          "nom": "NVIDIA GeForce RTX 3060",
+          "preu": {
+            "moneda": "EUR",
+            "valor": 599.99
+          }
+        },
+        {
+          "tipus": "targeta de so",
+          "nom": "Creative Sound BlasterX AE-5",
+          "preu": {
+            "moneda": "EUR",
+            "valor": 129.99
+          }
+        }
+      ],
+      "total": {
+        "moneda": "EUR",
+        "valor": 1579.94
+      }
+    },
+    {
+      "id": 2,
+      "components": [
+        {
+          "tipus": "placa base",
+          "nom": "MSI MPG Z490 GAMING EDGE WIFI",
+          "preu": {
+            "moneda": "EUR",
+            "valor": 179.99
+          }
+        },
+        {
+          "tipus": "processador",
+          "nom": "Intel Core i5-10600K",
+          "preu": {
+            "moneda": "EUR",
+            "valor": 269.99
+          }
+        },
+        {
+          "tipus": "memoria RAM",
+          "nom": "G.Skill Ripjaws V 16GB (2x8GB) DDR4",
+          "preu": {
+            "moneda": "EUR",
+            "valor": 74.99
+          }
+        },
+        {
+          "tipus": "disc dur",
+          "nom": "WD Blue 1TB HDD",
+          "preu": {
+            "moneda": "EUR",
+            "valor": 44.99
+          }
+        },
+        {
+          "tipus": "targeta gràfica",
+          "nom": "MSI GeForce GTX 1660 Super",
+          "preu": {
+            "moneda": "EUR",
+            "valor": 229.99
+          }
+        },
+        {
+          "tipus": "targeta de so",
+          "nom": "Realtek ALC1220",
+          "preu": {
+            "moneda": "EUR",
+            "valor": 49.99
+          }
+        }
+      ],
+      "total": {
+        "moneda": "EUR",
+        "valor": 849.94
+      }
+    }
+  ]
+}
+
